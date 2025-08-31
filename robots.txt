@@ -4,9 +4,9 @@
     Allow: /
   
     # Host
-    Host: http://preview.tangly1024.com
+    Host: eyleak.github.io
   
     # Sitemaps
-    Sitemap: http://preview.tangly1024.com/sitemap.xml
+    Sitemap: eyleak.github.io/sitemap.xml
   
     
